@@ -1,0 +1,13 @@
+Create the project
+
+Initialize the repository
+
+Track my files
+
+Add your files  
+
+commit those files
+
+Add the remote origin
+
+push the changes
